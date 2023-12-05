@@ -1,6 +1,6 @@
 stages:
   train:
-    cmd: python "pet classification.py"
+    cmd: python Untitled-1.py
     deps:
     - ds
     - params.yaml
